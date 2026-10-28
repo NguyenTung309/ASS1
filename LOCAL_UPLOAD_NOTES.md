@@ -1,6 +1,6 @@
 # Local source archive
 
-This private repository archives a local project snapshot.
+This public repository publishes a filtered local project source snapshot.
 
 Local Git history was not imported. Existing source files and licenses are retained.
 Credential files, installed dependencies, build outputs and oversized files were excluded.

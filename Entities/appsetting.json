@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "FUNewsDB": "Server=localhostDatabase=FUNewsManagement;Trusted_Connection=True;TrustServerCertificate=True"
+  }
+}
